@@ -1,4 +1,9 @@
 cold and dry but it is my favorite color.
 the two moons might be a problem for wolfman.
 but the mummy will appreciate the lack of humidity.
+<<<<<<< HEAD	#this tells you, what is your last version looks like
 Wolfman also add a line at the same time.
+======= 
+this line added to Dracs copy
+>>>>>>> c2339d39df5c1bba7e865410ea6051cca8691cbc
+#after the dash, it is other user's version
